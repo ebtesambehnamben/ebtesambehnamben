@@ -10,7 +10,7 @@
 
 ## 🛠 Hard Skills
 🚀 Mobile Frontend: 
-- iOS:  Swift, SwiftUI
+- iOS:  Swift, SwiftUI, Objective-C
 - Android: Java, Kotlin, Dagger & Hilt
 - Cross-Platform: Flutter, ReactNative & Expo, Ionic, Framework7
 
@@ -31,7 +31,7 @@
 🚀 Others:
 - Firebase, Google Map, Push Notification, In-App Purchase
 - WebSocket, SocketIO
-- OpenAI
+- OpenAI, ChatGPT
 - SEO & Digital Marketing
 
 ## Achievements
